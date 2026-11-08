@@ -65,9 +65,6 @@ in later sessions.
                +-----------+-----------+
                            |
                            v
-                    Context Builder
-                           |
-                           v
                        Gemini LLM
                            |
                            v
