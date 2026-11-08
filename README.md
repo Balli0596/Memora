@@ -154,7 +154,8 @@ directory is created by ChromaDB when persistent storage is initialized.
 ### 1. Clone the repository
 
 ``` bash
-git clone <your-repository-url>
+https://github.com/Balli0596/Memora/
+
 cd chatbot_memory
 ```
 
